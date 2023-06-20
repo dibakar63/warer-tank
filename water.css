@@ -1,0 +1,12 @@
+#table{
+    border: 1px solid black;
+    width:600px;
+    height: 200px;
+}
+#tableRow{
+    border: 1px solid black;
+    
+}
+#tableRow yellow{
+    background-color: yellow;
+}
